@@ -1,0 +1,51 @@
+[
+	{
+		"id": 1,
+		"hired": "1983",
+		"lastName": "Scheve",
+		"FirstName": "Tim",
+		"JobTitle": "Software Developer"
+	},
+	{
+		"id": 2,
+		"hired": "1993",
+		"lastName": "Caples",
+		"FirstName": "James",
+		"JobTitle": "Web Developer"
+	},
+	{
+		"id": 3,
+		"hired": "1984",
+		"lastName": "Tshabalala",
+		"FirstName": "Richard",
+		"JobTitle": "Web Developer"
+	},
+	{
+		"id": 4,
+		"hired": "2002",
+		"lastName": "Botham",
+		"FirstName": "James",
+		"JobTitle": "CEO"
+	},
+	{
+		"id": 5,
+		"hired": "1975",
+		"lastName": "Pane",
+		"FirstName": "Johnny",
+		"JobTitle": "Grounds Crew Manager"
+	},
+	{
+		"id": 6,
+		"hired": "1988",
+		"lastName": "Ahmed",
+		"FirstName": "Mohamed",
+		"JobTitle": "Web Developer"
+	},
+	{
+		"id": 7,
+		"hired": "2010",
+		"lastName": "Abdi",
+		"FirstName": "Mohamed",
+		"JobTitle": "Software Developer"
+	}
+]

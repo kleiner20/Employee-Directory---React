@@ -1,10 +1,8 @@
 import React from "react";
-import Cars from "./components/Cars";
-import CarList from "./data/cars.json";
-//var CarList = [];
+import EmpContainer from "./components/EmpContainer";
 
 function App() {
-	return <Cars carList={CarList} />;
+  return <EmpContainer />;
 }
 
 export default App;
